@@ -1,4 +1,4 @@
-README.md
+# README.md
 
 Welcome to my attempt at creating a sudoku game! I always wondered how to code the logic behind the game I played so often, so I took a stab at it.
 
